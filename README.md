@@ -28,7 +28,7 @@
 
 
 <p align="center">
- <a href="https://lyrexd.com" target="blank">
+ <a href="https://lyrexd.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Lyred.com" />
  </a>
  <a href="https://www.linkedin.com/in/baran-y%C4%B1lmaz-6769792aa/" target="_blank">
