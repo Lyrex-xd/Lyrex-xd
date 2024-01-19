@@ -54,8 +54,8 @@
   
  😍 &emsp; Göz alıcı ve özgün web tasarımlar üretiyorum <br/><br/>
  ❤️ &emsp; Kod yazmayı ve yeni özellikler öğrenmeyi seviyorum<br/><br/>
- 📧 &emsp; Bana istediğiniz zaman ulaş: Baran_yilmaz35@hotmail.com<br/><br/>
- 💬 &emsp; Bana buradan her şeyi sorabilirsiniz [here](https://github.com/Lyrex-xd/Lyrex-xd/issues)
+ 📧 &emsp; Bana istediğiniz zaman ulaş: Baran_Yilmaz35@hotmail.com<br/><br/>
+ 💬 &emsp; Bana [buradan](https://github.com/Lyrex-xd/Lyrex-xd/issues) her şeyi sorabilirsiniz
 
 </p>
 
